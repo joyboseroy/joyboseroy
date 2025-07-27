@@ -33,7 +33,7 @@ I bridge theory and application—building practical ML systems while staying cl
 ---
 
 ## Blogs & Writing
-- [How AI reduces time spent categorizing CSP financial data](https://www.ericsson.com/en/blog/2023/ai-telecom-automation)
+- [How can AI reduce time spent on categorizing CSPs' financial data]([https://www.ericsson.com/en/blog/2023/ai-telecom-automation](https://www.ericsson.com/en/blog/2021/3/ai-for-categorizing-telecom-data))
 - [Medium: Problems with the Generative AI Stack](https://medium.com/@joyboseroy/problems-with-the-generative-ai-stack-b27470eef640)
 
 ---
