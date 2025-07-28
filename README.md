@@ -28,12 +28,12 @@ I bridge theory and application—building practical ML systems while staying cl
 -  [A Hybrid Framework for Real-Time Data Drift and Anomaly Identification Using Hierarchical Temporal Memory and Statistical Tests.](https://www.arxiv.org/abs/2504.18599) (2025)
 -  Identification of Inefficient Radios for Efficient Energy Consumption in a Mobile Network (IEEE 2024)
 -  Thesis: *Engineering a sequence machine through spiking neurons employing rank-order codes*
--  3 patents filed in USPTO/WIPO related to AI in telecom (total 20 patents in USPTO and WIPO and European Patent Office)
+-  3 patents filed in USPTO/WIPO related to AI in telecom: WO/2022/079724 FIRST NODE, AND METHOD PERFORMED THEREBY, FOR HANDLING ONE OR MORE CATEGORIES OF DATA, 20240196392 REDUCING INTERFERENCE IN A COMMUNICATIONS NETWORK and one unpublished (total 20 patents published, 6 granted in USPTO and WIPO)
 
 ---
 
 ## Blogs & Writing
-- [How can AI reduce time spent on categorizing CSPs' financial data]([https://www.ericsson.com/en/blog/2023/ai-telecom-automation](https://www.ericsson.com/en/blog/2021/3/ai-for-categorizing-telecom-data))
+- [How can AI reduce time spent on categorizing CSPs' financial data](https://www.ericsson.com/en/blog/2021/3/ai-for-categorizing-telecom-data)
 - [Medium: Problems with the Generative AI Stack](https://medium.com/@joyboseroy/problems-with-the-generative-ai-stack-b27470eef640)
 
 ---
