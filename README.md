@@ -19,7 +19,8 @@ I bridge theory and application—building practical ML systems while staying cl
 
 - [ Pendulum Spiking Model](https://github.com/joyboseroy/pendulum-spiking-model): A biologically inspired spiking neuron model with Hebbian and STDP learning.
 - [ BanglaScriptBot](https://github.com/joyboseroy/BanglaScriptBot): A Bengali LLM-powered educational and writing tool.
-- [ BiasNavigation](https://github.com/joyboseroy/bias_navigation): A tool to determine the amount of bias in news articles. 
+- [ BiasNavigation](https://github.com/joyboseroy/bias_navigation): A tool to determine the amount of bias in news articles.
+- [ MeditationRecommenderApp](https://github.com/joyboseroy/meditation_recommender_app): A web-based app to recommend a type of meditation and give instructions based on your feelings. 
 
 ---
 
