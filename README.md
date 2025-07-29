@@ -19,8 +19,6 @@ I bridge theory and application—building practical ML systems while staying cl
 
 - [ Pendulum Spiking Model](https://github.com/joyboseroy/pendulum-spiking-model): A biologically inspired spiking neuron model with Hebbian and STDP learning.
 - [ BanglaScriptBot](https://github.com/joyboseroy/BanglaScriptBot): A Bengali LLM-powered educational and writing tool.
-- [ Meditation Prompt Bot](https://github.com/joyboseroy/meditation-prompts): LLM-powered guide for mindfulness and compassion.
-- [ Cell Tower Placement with ML](https://github.com/joyboseroy/cell-tower-ml): Predictive modeling and clustering for telecom network planning.
 
 ---
 
