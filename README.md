@@ -46,4 +46,4 @@ I am building practical ML systems while staying close to neuroscience-inspired 
 
 ---
 
-If you're into neuroscience, mindful tech, or ethical AI—let's collaborate!
+If you're into spiking neurons, mindful tech, meditation gadgets, or interesting applications of LLMs, let's collaborate!
