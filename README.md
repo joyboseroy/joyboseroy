@@ -1,8 +1,8 @@
 # Hi, I'm Joy Bose
 
-I'm a Data Scientist and ML researcher with 15+ years of experience (10+ in machine learning), currently at Ericsson Global, Bangalore. My work spans across spiking neural networks, large language models, AI applications in various domains such as web browser.
+I'm a Data Scientist and ML researcher with 15+ years of experience (10+ in machine learning), currently at Ericsson Global, Bangalore. My work spans across spiking neural networks, large language models, AI applications in various domains such as web browser and telecom.
 
-I building practical ML systems while staying close to neuroscience-inspired computing and the evolving ethical landscape of AI. This github just has some mostly toy projects and some code for a couple of research papers. 
+I am building practical ML systems while staying close to neuroscience-inspired computing, brain computer interfacing and more recently LLM applications. This github has some toy projects, some code for a few research papers, and some introductory lectures I gave. 
 
 ---
 
