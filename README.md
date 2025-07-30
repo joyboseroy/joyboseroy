@@ -2,7 +2,7 @@
 
 I'm a Data Scientist and ML researcher with 15+ years of experience (10+ in machine learning), currently at Ericsson Global, Bangalore. My work spans across spiking neural networks, large language models, AI applications in various domains such as web browser.
 
-I bridge theory and application—building practical ML systems while staying close to neuroscience-inspired computing and the evolving ethical landscape of AI.
+I building practical ML systems while staying close to neuroscience-inspired computing and the evolving ethical landscape of AI. This github just has some mostly toy projects and some code for a couple of research papers. 
 
 ---
 
