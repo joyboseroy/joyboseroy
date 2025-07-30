@@ -27,8 +27,8 @@ I am building practical ML systems while staying close to neuroscience-inspired 
 
 ## Publications & Patents
 -  [A Hybrid Framework for Real-Time Data Drift and Anomaly Identification Using Hierarchical Temporal Memory and Statistical Tests.](https://www.arxiv.org/abs/2504.18599) (2025)
--  Identification of Inefficient Radios for Efficient Energy Consumption in a Mobile Network (IEEE 2024)
--  Thesis: *Engineering a sequence machine through spiking neurons employing rank-order codes*
+-  [Identification of Inefficient Radios for Efficient Energy Consumption in a Mobile Network](https://ieeexplore.ieee.org/document/10426851) (IEEE 2024)
+-  PhD Thesis: [Engineering a sequence machine through spiking neurons employing rank-order codes](https://www.academia.edu/download/7385022/bose07_phd.pdf)
 -  3 patents filed in USPTO/WIPO related to AI in telecom: WO/2022/079724 FIRST NODE, AND METHOD PERFORMED THEREBY, FOR HANDLING ONE OR MORE CATEGORIES OF DATA, 20240196392 REDUCING INTERFERENCE IN A COMMUNICATIONS NETWORK and one unpublished (total 20 patents published, 6 granted in USPTO and WIPO)
 
 ---
