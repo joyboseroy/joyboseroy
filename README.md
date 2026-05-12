@@ -25,6 +25,8 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [HTM + Drift Detection](https://arxiv.org/abs/2504.18599) | Real-time anomaly detection · arXiv 2025 |
 | [pendulum-spiking-model](https://github.com/joyboseroy/pendulum-spiking-model) | Pendulum neuron model with STDP · arXiv 2025 |
 | [stsmpaper](https://github.com/joyboseroy/stsmpaper) | Spiking neurons ↔ Transformers: same algorithm, two eras · arXiv 2026 |
+| [marxbot](https://github.com/joyboseroy/marxbot) | Local RAG chatbot on domain-specific texts · TinyLlama + ChromaDB |
+| [tinyllama-agent-local](https://github.com/joyboseroy/tinyllama-agent-local) | Tool-using agent on a tiny local model · no APIs · edge deployment |
 
 ---
 
