@@ -27,6 +27,7 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [stsmpaper](https://github.com/joyboseroy/stsmpaper) | Spiking neurons ↔ Transformers: same algorithm, two eras · arXiv 2026 |
 | [marxbot](https://github.com/joyboseroy/marxbot) | Local RAG chatbot on domain-specific texts · TinyLlama + ChromaDB |
 | [tinyllama-agent-local](https://github.com/joyboseroy/tinyllama-agent-local) | Tool-using agent on a tiny local model · no APIs · edge deployment |
+| [htm_drift_detection](https://github.com/joyboseroy/htm_drift_detection) | HTM + SPRT hybrid drift detection · IJMEMS 2025 · arXiv:2504.18599 |
 
 ---
 
@@ -36,6 +37,7 @@ knowledge graphs, and agentic AI for telecom and beyond.
 - [Problems with the Generative AI Stack](https://medium.com/@joyboseroy/problems-with-the-generative-ai-stack-b27470eef640) — Medium
 - [AI for telecom financial data](https://www.ericsson.com/en/blog/2021/3/ai-for-categorizing-telecom-data) — Ericsson Blog
 - [Google Scholar](https://scholar.google.com/citations?user=1E0YgA4AAAAJ&hl=en) · PhD: Spiking neural sequence learning, U. Manchester
+- [HTM + SPRT Drift Detection](https://arxiv.org/abs/2504.18599) (IJMEMS 2025) — hybrid framework for real-time data drift detection outperforming KS test and Wasserstein distance
 
 ---
 
