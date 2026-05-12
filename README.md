@@ -23,6 +23,7 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [bias_navigation](https://github.com/joyboseroy/bias_navigation) | Bias detection in news articles |
 | [banglascriptbot](https://github.com/joyboseroy/banglascriptbot) | Low-resource Indic NLP |
 | [HTM + Drift Detection](https://www.arxiv.org/abs/2504.18599) | Real-time anomaly detection (2025) |
+| [stsmpaper](https://github.com/joyboseroy/stsmpaper) | Spiking neurons ↔ Transformers: same algorithm, two eras · arXiv 2026 |
 
 ---
 
