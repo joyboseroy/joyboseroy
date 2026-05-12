@@ -1,4 +1,4 @@
-# Hi, I'm Joy Bose 👋
+# Hi, I'm Joy Bose 
 Senior Data Scientist & AI Architect · Ericsson Global, Bangalore
 PhD (University of Manchester) · 15+ years in ML · 20+ patents filed
 
