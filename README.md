@@ -22,10 +22,8 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [meditation_recommender_app](https://github.com/joyboseroy/meditation_recommender_app) | LLM-guided mood → recommendation |
 | [bias_navigation](https://github.com/joyboseroy/bias_navigation) | Bias detection in news articles |
 | [banglascriptbot](https://github.com/joyboseroy/banglascriptbot) | Low-resource Indic NLP |
-| [HTM + Drift Detection](https://arxiv.org/abs/2504.18599) | 
-Real-time anomaly detection · arXiv 2025 |
-| [pendulum-spiking-model](https://github.com/joyboseroy/pendulum-spiking-model) | 
-Pendulum neuron model with STDP · arXiv 2025 |
+| [HTM + Drift Detection](https://arxiv.org/abs/2504.18599) | Real-time anomaly detection · arXiv 2025 |
+| [pendulum-spiking-model](https://github.com/joyboseroy/pendulum-spiking-model) | Pendulum neuron model with STDP · arXiv 2025 |
 | [stsmpaper](https://github.com/joyboseroy/stsmpaper) | Spiking neurons ↔ Transformers: same algorithm, two eras · arXiv 2026 |
 
 ---
