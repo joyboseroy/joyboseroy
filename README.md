@@ -28,7 +28,7 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [marxbot](https://github.com/joyboseroy/marxbot) | Local RAG chatbot on domain-specific texts · TinyLlama + ChromaDB |
 | [tinyllama-agent-local](https://github.com/joyboseroy/tinyllama-agent-local) | Tool-using agent on a tiny local model · no APIs · edge deployment |
 | [htm_drift_detection](https://github.com/joyboseroy/htm_drift_detection) | HTM + SPRT hybrid drift detection · IJMEMS 2025 · arXiv:2504.18599 |
-| [job_search_agent](https://github.com/joyboseroy/job_search_agent) | AI-powered job search campaign agent · cover letters · interview coach · MCP |
+| [job_search_agent](https://github.com/joyboseroy/job_search_agent) | AI job search agent · cover letters · interview coach · tracker · Kiro skills + Python |
 
 ---
 
