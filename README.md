@@ -32,6 +32,7 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [kg_test_agent](https://github.com/joyboseroy/kg_test_agent) | KG-guided generative test agent · FalkorDB · MCP · TinyLlama |
 | [ideaforge](https://github.com/joyboseroy/ideaforge) | KG-grounded multi-methodology innovation agent · TRIZ + Design Thinking + SCAMPER · FalkorDB · MCP · arxiv:2605.13311 |
 | [falkor-irac](https://github.com/joyboseroy/falkor-irac) | Graph-constrained legal reasoning · IRAC knowledge graph · hard verification · Indian judiciary · FalkorDB · arxiv:2605.14665 |
+| [NyayaSaar-LoRA](https://github.com/joyboseroy/NyayaSaar-LoRA) | PEFT/QLoRA-based simplification of Indian legal reasoning · IRAC-to-plain-English translation · legal accessibility · Hugging Face LoRA |
 
 ---
 
