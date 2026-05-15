@@ -31,7 +31,7 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [job_search_agent](https://github.com/joyboseroy/job_search_agent) | AI job search agent · cover letters · interview coach · tracker · Kiro skills + Python |
 | [kg_test_agent](https://github.com/joyboseroy/kg_test_agent) | KG-guided generative test agent · FalkorDB · MCP · TinyLlama |
 | [ideaforge](https://github.com/joyboseroy/ideaforge) | KG-grounded multi-methodology innovation agent · TRIZ + Design Thinking + SCAMPER · FalkorDB · MCP · arxiv:2605.13311 |
-| [falkor-irac](https://github.com/joyboseroy/falkor-irac) | Graph-constrained legal reasoning · IRAC knowledge graph · hard verification · Indian judiciary · FalkorDB |
+| [falkor-irac](https://github.com/joyboseroy/falkor-irac) | Graph-constrained legal reasoning · IRAC knowledge graph · hard verification · Indian judiciary · FalkorDB · arxiv:2605.14665 |
 
 ---
 
