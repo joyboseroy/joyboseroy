@@ -33,6 +33,7 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [ideaforge](https://github.com/joyboseroy/ideaforge) | KG-grounded multi-methodology innovation agent · TRIZ + Design Thinking + SCAMPER · FalkorDB · MCP · arxiv:2605.13311 |
 | [falkor-irac](https://github.com/joyboseroy/falkor-irac) | Graph-constrained legal reasoning · IRAC knowledge graph · hard verification · Indian judiciary · FalkorDB · arxiv:2605.14665 |
 | [NyayaSaar-LoRA](https://github.com/joyboseroy/NyayaSaar-LoRA) | PEFT/QLoRA-based simplification of Indian legal reasoning · IRAC-to-plain-English translation · legal accessibility · Hugging Face LoRA |
+| [rti-bench](https://github.com/joyboseroy/rti-bench) | First structured dataset of Indian RTI Commission decisions · 1,516 cases · outcome labels · exemption citations · IRAC components · rule-based pipeline · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/rti-bench) |
 
 ---
 
