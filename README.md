@@ -35,6 +35,7 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [NyayaSaar-LoRA](https://github.com/joyboseroy/NyayaSaar-LoRA) | PEFT/QLoRA-based simplification of Indian legal reasoning · IRAC-to-plain-English translation · legal accessibility · Hugging Face LoRA |
 | [rti-bench](https://github.com/joyboseroy/rti-bench) | First structured dataset of Indian RTI Commission decisions · 1,516 cases · outcome labels · exemption citations · IRAC components · rule-based pipeline · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/rti-bench) |
 | [newslens](https://github.com/joyboseroy/newslens) | Multi-agent adversarial news bias analysis · propaganda detection · Ollama/Mistral · Qwen2.5-3B |
+| [imljd](https://github.com/joyboseroy/imljd) | 3,613 Indian matrimonial litigation judgments · Supreme Court 2000–2024 · Karnataka HC 2018–2024 · CrPC 482 quashing petitions · outcome labels · knowledge graph · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/imljd) |
 
 ---
 
