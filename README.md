@@ -38,6 +38,7 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [imljd](https://github.com/joyboseroy/imljd) | 3,613 Indian matrimonial litigation judgments · Supreme Court 2000–2024 · Karnataka HC 2018–2024 · CrPC 482 quashing petitions · outcome labels · knowledge graph · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/imljd) |
 | [temporal-coding-tbt](https://github.com/joyboseroy/temporal-coding-tbt) | Rank-order spike packets for sensorimotor object inference · STDP causal learning · spiking reinterpretation of Thousand Brains Theory · Monty/TBT · NumPy |
 | [cheapest-solver](https://github.com/joyboseroy/cheapest-solver) | Tiered AI task orchestration · regex → lookup → classical ML → SLM → LLM · routes each task to the cheapest correct solver · Green AI · energy-efficient inference |
+| [apd-prostration-device](https://github.com/joyboseroy/apd-prostration-device) | Open hardware assistive device for repetitive devotional prostration · passive bi-directional kinetic restoration · five mechanical embodiments · silent monastery-safe design · CERN OHL-S v2 · [OSF](https://doi.org/10.17605/OSF.IO/MQYP6) · [Zenodo](https://doi.org/10.5281/zenodo.20351494) |
 
 ---
 
