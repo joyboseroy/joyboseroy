@@ -37,6 +37,7 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [newslens](https://github.com/joyboseroy/newslens) | Multi-agent adversarial news bias analysis · propaganda detection · Ollama/Mistral · Qwen2.5-3B |
 | [imljd](https://github.com/joyboseroy/imljd) | 3,613 Indian matrimonial litigation judgments · Supreme Court 2000–2024 · Karnataka HC 2018–2024 · CrPC 482 quashing petitions · outcome labels · knowledge graph · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/imljd) |
 | [temporal-coding-tbt](https://github.com/joyboseroy/temporal-coding-tbt) | Rank-order spike packets for sensorimotor object inference · STDP causal learning · spiking reinterpretation of Thousand Brains Theory · Monty/TBT · NumPy |
+| [cheapest-solver](https://github.com/joyboseroy/cheapest-solver) | Tiered AI task orchestration · regex → lookup → classical ML → SLM → LLM · routes each task to the cheapest correct solver · Green AI · energy-efficient inference |
 
 ---
 
