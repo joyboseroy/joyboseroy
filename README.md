@@ -39,6 +39,7 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [temporal-coding-tbt](https://github.com/joyboseroy/temporal-coding-tbt) | Rank-order spike packets for sensorimotor object inference · STDP causal learning · spiking reinterpretation of Thousand Brains Theory · Monty/TBT · NumPy |
 | [cheapest-solver](https://github.com/joyboseroy/cheapest-solver) | Tiered AI task orchestration · regex → lookup → classical ML → SLM → LLM · routes each task to the cheapest correct solver · Green AI · energy-efficient inference |
 | [apd-prostration-device](https://github.com/joyboseroy/apd-prostration-device) | Open hardware assistive device for repetitive devotional prostration · passive bi-directional kinetic restoration · five mechanical embodiments · silent monastery-safe design · CERN OHL-S v2 · [OSF](https://doi.org/10.17605/OSF.IO/MQYP6) · [Zenodo](https://doi.org/10.5281/zenodo.20351494) |
+| [sati-loop](https://github.com/joyboseroy/sati-loop) | Alignment-aware contemplative cybernetic platform · closed-loop EEG + HRV + IMU · negative-only feedback · scaffold withdrawal · transfer-first evaluation · no proxy reward · CERN OHL-S v2 · [OSF](https://doi.org/10.17605/OSF.IO/EGKU4) |
 
 ---
 
