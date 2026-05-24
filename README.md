@@ -45,6 +45,7 @@ unusual perspective meet.
 | [cheapest-solver](https://github.com/joyboseroy/cheapest-solver) | Tiered AI task orchestration · regex → lookup → classical ML → SLM → LLM · routes each task to the cheapest correct solver · Green AI · energy-efficient inference |
 | [apd-prostration-device](https://github.com/joyboseroy/apd-prostration-device) | Open hardware assistive device for repetitive devotional prostration · passive bi-directional kinetic restoration · five mechanical embodiments · silent monastery-safe design · CERN OHL-S v2 · [OSF](https://doi.org/10.17605/OSF.IO/MQYP6) · [Zenodo](https://doi.org/10.5281/zenodo.20351494) |
 | [sati-loop](https://github.com/joyboseroy/sati-loop) | Alignment-aware contemplative cybernetic platform · closed-loop EEG + HRV + IMU · negative-only feedback · scaffold withdrawal · transfer-first evaluation · no proxy reward · CERN OHL-S v2 · [OSF](https://doi.org/10.17605/OSF.IO/EGKU4) |
+| [falkor-neuro](https://github.com/joyboseroy/falkor-neuro) | Neurobiological knowledge graph · dendritic spine pathology · cannabis/psychosis · schizophrenia nosology · FalkorDB · KCL MSc neuroscience essays |
 
 ---
 
@@ -60,6 +61,7 @@ unusual perspective meet.
 - [🤗 joyboseroy/inIRAC](https://huggingface.co/datasets/joyboseroy/inIRAC) — Structured Indian legal reasoning in IRAC format
 - [🤗 joyboseroy/rti-bench](https://huggingface.co/datasets/joyboseroy/rti-bench) — 1,516 Indian RTI Commission decisions · outcome labels · exemption citations
 - [🤗 joyboseroy/imljd](https://huggingface.co/datasets/joyboseroy/imljd) — 3,613 Indian matrimonial litigation judgments · SC 2000–2024 · Karnataka HC
+- [🤗 joyboseroy/CognitiveDistortion-Eval](https://huggingface.co/datasets/joyboseroy/CognitiveDistortion-Eval) — 130-row LLM evaluation dataset · Beck cognitive distortions · 6 distortion types · AI/ML, clinical, telecom, and real-world r/conspiracy contexts · alignment and misinformation research
 
 ### Open Hardware
 - [apd-prostration-device](https://github.com/joyboseroy/apd-prostration-device) · [OSF](https://doi.org/10.17605/OSF.IO/MQYP6) · [Zenodo](https://doi.org/10.5281/zenodo.20351494)
