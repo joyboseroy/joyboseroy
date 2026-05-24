@@ -30,6 +30,7 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [htm_drift_detection](https://github.com/joyboseroy/htm_drift_detection) | HTM + SPRT hybrid drift detection · IJMEMS 2025 · arXiv:2504.18599 |
 | [job_search_agent](https://github.com/joyboseroy/job_search_agent) | AI job search agent · cover letters · interview coach · tracker · Kiro skills + Python |
 | [kg_test_agent](https://github.com/joyboseroy/kg_test_agent) | KG-guided generative test agent · FalkorDB · MCP · TinyLlama |
+| [publish-or-perish-index](https://github.com/joyboseroy/publish-or-perish-index) | Research timing intelligence · arXiv velocity · Semantic Scholar · OpenAlex trend · Papers With Code · Polymarket · scores each topic on a Publish-or-Perish Index (PPI) |
 | [ideaforge](https://github.com/joyboseroy/ideaforge) | KG-grounded multi-methodology innovation agent · TRIZ + Design Thinking + SCAMPER · FalkorDB · MCP · arxiv:2605.13311 |
 | [falkor-irac](https://github.com/joyboseroy/falkor-irac) | Graph-constrained legal reasoning · IRAC knowledge graph · hard verification · Indian judiciary · FalkorDB · arxiv:2605.14665 |
 | [NyayaSaar-LoRA](https://github.com/joyboseroy/NyayaSaar-LoRA) | PEFT/QLoRA-based simplification of Indian legal reasoning · IRAC-to-plain-English translation · legal accessibility · Hugging Face LoRA |
