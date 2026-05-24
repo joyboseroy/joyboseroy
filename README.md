@@ -16,6 +16,7 @@ unusual perspective meet.
 - **Neuromorphic / spiking neural networks** — 20-year thread from PhD to stsmpaper
 - **Legal AI for Indian judiciary** — three repos + two arXiv papers + HuggingFace datasets
 - **Contemplative / alignment-aware tech** — sati-loop, apd-prostration-device with Open hardware (CERN OHL-S licensed, OSF + Zenodo archiving)
+- **Clinical & cognitive neuroscience AI** — neurobiological KG (FalkorDB) · cognitive distortion eval dataset · KCL MSc grounding
 
 ---
 
