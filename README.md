@@ -63,7 +63,6 @@ unusual perspective meet.
 - [Problems with the Generative AI Stack](https://medium.com/@joyboseroy/problems-with-the-generative-ai-stack-b27470eef640) — Medium
 - [AI for telecom financial data](https://www.ericsson.com/en/blog/2021/3/ai-for-categorizing-telecom-data) — Ericsson Blog
 - [Google Scholar](https://scholar.google.com/citations?user=1E0YgA4AAAAJ&hl=en) · PhD: Spiking neural sequence learning, U. Manchester
-- [HTM + SPRT Drift Detection](https://arxiv.org/abs/2504.18599) (IJMEMS 2025) — hybrid framework for real-time data drift detection outperforming KS test and Wasserstein distance
 
 ---
 
