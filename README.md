@@ -49,11 +49,21 @@ unusual perspective meet.
 ---
 
 ## 📄 Papers & Datasets
-- arXiv:2605.14665 — falkor-irac (legal reasoning)
-- arXiv:2605.13311 — ideaforge
-- arXiv:2605.00662 — stsmpaper
-- arXiv:2504.18599 — HTM drift detection (IJMEMS 2025)
-- 🤗 joyboseroy/inIRAC · rti-bench · imljd
+
+### arXiv
+- [arXiv:2605.14665](https://arxiv.org/abs/2605.14665) — falkor-irac · Graph-constrained legal reasoning for Indian judiciary
+- [arXiv:2605.13311](https://arxiv.org/abs/2605.13311) — ideaforge · KG-grounded multi-methodology innovation
+- [arXiv:2605.00662](https://arxiv.org/abs/2605.00662) — stsmpaper · Spiking sequence machines and transformers
+- [arXiv:2504.18599](https://arxiv.org/abs/2504.18599) — HTM + SPRT drift detection · IJMEMS 2025
+
+### Datasets
+- [🤗 joyboseroy/inIRAC](https://huggingface.co/datasets/joyboseroy/inIRAC) — Structured Indian legal reasoning in IRAC format
+- [🤗 joyboseroy/rti-bench](https://huggingface.co/datasets/joyboseroy/rti-bench) — 1,516 Indian RTI Commission decisions · outcome labels · exemption citations
+- [🤗 joyboseroy/imljd](https://huggingface.co/datasets/joyboseroy/imljd) — 3,613 Indian matrimonial litigation judgments · SC 2000–2024 · Karnataka HC
+
+### Open Hardware
+- [apd-prostration-device](https://github.com/joyboseroy/apd-prostration-device) · [OSF](https://doi.org/10.17605/OSF.IO/MQYP6) · [Zenodo](https://doi.org/10.5281/zenodo.20351494)
+- [sati-loop](https://github.com/joyboseroy/sati-loop) · [OSF](https://doi.org/10.17605/OSF.IO/EGKU4)
 
 ---
 
