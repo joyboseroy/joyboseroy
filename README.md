@@ -1,9 +1,10 @@
 # Hi, I'm Joy Bose 
-Senior Data Scientist & AI Architect · Ericsson Global, Bangalore
-PhD (University of Manchester) · 15+ years in ML · 20+ patents filed
+PhD (spiking neural networks, U. Manchester) · LLM (Golden Gate University) · 
+15+ years in ML · 20+ patents · Senior Data Scientist at Ericsson Global, Bangalore
 
-Building enterprise GenAI systems — RAG pipelines, LLM orchestration,
-knowledge graphs, and agentic AI for telecom and beyond.
+Research interests span neuromorphic computing, graph-constrained reasoning, 
+contemplative technology, and Green AI. Building systems where rigour and 
+unusual perspective meet.
 
 ---
 
@@ -11,7 +12,10 @@ knowledge graphs, and agentic AI for telecom and beyond.
 - **RAG & LLM Systems** — NLP-to-SQL, document Q&A, retrieval pipelines
 - **Agentic AI** — MCP-based agents, knowledge graph + LLM orchestration
 - **Telecom AI** — anomaly detection, ticket resolution, financial categorisation
-- **Edge & Efficient ML** — LoRA fine-tuning, TinyLLaMA, on-device models
+- **Edge & Efficient ML** — LoRA fine-tuning, TinyLLaMA
+- **Neuromorphic / spiking neural networks** — 20-year thread from PhD to stsmpaper
+- **Legal AI for Indian judiciary** — three repos + two arXiv papers + HuggingFace datasets
+- **Contemplative / alignment-aware tech** — sati-loop, apd-prostration-device with Open hardware (CERN OHL-S licensed, OSF + Zenodo archiving)
 
 ---
 
@@ -41,6 +45,15 @@ knowledge graphs, and agentic AI for telecom and beyond.
 | [cheapest-solver](https://github.com/joyboseroy/cheapest-solver) | Tiered AI task orchestration · regex → lookup → classical ML → SLM → LLM · routes each task to the cheapest correct solver · Green AI · energy-efficient inference |
 | [apd-prostration-device](https://github.com/joyboseroy/apd-prostration-device) | Open hardware assistive device for repetitive devotional prostration · passive bi-directional kinetic restoration · five mechanical embodiments · silent monastery-safe design · CERN OHL-S v2 · [OSF](https://doi.org/10.17605/OSF.IO/MQYP6) · [Zenodo](https://doi.org/10.5281/zenodo.20351494) |
 | [sati-loop](https://github.com/joyboseroy/sati-loop) | Alignment-aware contemplative cybernetic platform · closed-loop EEG + HRV + IMU · negative-only feedback · scaffold withdrawal · transfer-first evaluation · no proxy reward · CERN OHL-S v2 · [OSF](https://doi.org/10.17605/OSF.IO/EGKU4) |
+
+---
+
+## 📄 Papers & Datasets
+- arXiv:2605.14665 — falkor-irac (legal reasoning)
+- arXiv:2605.13311 — ideaforge
+- arXiv:2605.00662 — stsmpaper
+- arXiv:2504.18599 — HTM drift detection (IJMEMS 2025)
+- 🤗 joyboseroy/inIRAC · rti-bench · imljd
 
 ---
 
