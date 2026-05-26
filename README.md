@@ -47,6 +47,7 @@ unusual perspective meet.
 | [apd-prostration-device](https://github.com/joyboseroy/apd-prostration-device) | Open hardware assistive device for repetitive devotional prostration · passive bi-directional kinetic restoration · five mechanical embodiments · silent monastery-safe design · CERN OHL-S v2 · [OSF](https://doi.org/10.17605/OSF.IO/MQYP6) · [Zenodo](https://doi.org/10.5281/zenodo.20351494) |
 | [sati-loop](https://github.com/joyboseroy/sati-loop) | Alignment-aware contemplative cybernetic platform · closed-loop EEG + HRV + IMU · negative-only feedback · scaffold withdrawal · transfer-first evaluation · no proxy reward · CERN OHL-S v2 · [OSF](https://doi.org/10.17605/OSF.IO/EGKU4) |
 | [falkor-neuro](https://github.com/joyboseroy/falkor-neuro) | Neurobiological knowledge graph · dendritic spine pathology · cannabis/psychosis · schizophrenia nosology · FalkorDB · KCL MSc neuroscience essays |
+| [stride-pipeline](https://github.com/joyboseroy/stride-pipeline) | Structural bottleneck diagnosis for Indian High Courts · Input / Capacity / Output classification · 2.45M writ petition records · DAKSH · stage harmonisation · Semantic Disorder Index · CC BY-NC 4.0 |
 
 ---
 
