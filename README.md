@@ -48,7 +48,7 @@ unusual perspective meet.
 | [sati-loop](https://github.com/joyboseroy/sati-loop) | Alignment-aware contemplative cybernetic platform · closed-loop EEG + HRV + IMU · negative-only feedback · scaffold withdrawal · transfer-first evaluation · no proxy reward · CERN OHL-S v2 · [OSF](https://doi.org/10.17605/OSF.IO/EGKU4) |
 | [falkor-neuro](https://github.com/joyboseroy/falkor-neuro) | Neurobiological knowledge graph · dendritic spine pathology · cannabis/psychosis · schizophrenia nosology · FalkorDB · KCL MSc neuroscience essays |
 | [stride-pipeline](https://github.com/joyboseroy/stride-pipeline) | Structural bottleneck diagnosis for Indian High Courts · Input / Capacity / Output classification · 2.45M writ petition records · DAKSH · stage harmonisation · Semantic Disorder Index · CC BY-NC 4.0 |
-| [attention-asymmetry](https://github.com/joyboseroy/attention-asymmetry) | Amplification asymmetry in AI layoff discourse · capital vs labour narrative reach on X · account-based corpus · ANI follower normalisation · Reddit cross-platform replication · 763 tweets · Mann-Whitney U · [HF Dataset](https://huggingface.co/datasets/joyboseroy/ai-layoff-discourse-amplification) |
+| [attention-asymmetry](https://github.com/joyboseroy/attention-asymmetry) | Amplification asymmetry in AI layoff discourse · capital vs labour narrative reach on X · account-based corpus · ANI follower normalisation · Reddit cross-platform replication · 763 tweets · arXiv:[2605.29367](https://arxiv.org/abs/2605.29367) · [HF Dataset](https://huggingface.co/datasets/joyboseroy/ai-layoff-discourse-amplification) |
 
 ---
 
