@@ -1,5 +1,5 @@
 # Hi, I'm Joy Bose 
-PhD (spiking neural networks, U. Manchester) · LLM (Golden Gate University) · 
+PhD (spiking neural networks, U. Manchester) · LLM (Golden Gate University) · MSc in Psychology and Neuroscience of Mental Health (King's College London) · 
 15+ years in ML · 20+ patents · Senior Data Scientist at Ericsson Global, Bangalore
 
 Research interests span neuromorphic computing, graph-constrained reasoning, 
