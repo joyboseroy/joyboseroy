@@ -53,6 +53,7 @@ unusual perspective meet.
 | [emptiness-graph](https://github.com/joyboseroy/emptiness-graph) | Typed philosophical knowledge graph of Buddhist emptiness teachings · 25 concept nodes · 38 hand-authored edges · 1,126 passages · Theravada · Madhyamaka · Yogacara · Prajnaparamita · computational philosophy · 🤗 HuggingFace dataset (https://huggingface.co/datasets/joyboseroy/emptiness-graph) |
 | [indic-concept-graph](https://github.com/joyboseroy/indic-concept-graph) | Multilingual concept prerequisite graph · NCERT curriculum + Buddhist dharma · IndicTrans2 + FalkorDB · Hindi / Tamil / Sanskrit / Tibetan / Chinese |
 | [happy-money-coach](https://github.com/joyboseroy/happy-money-coach) | Ken Honda Happy Money philosophy · Arigato Score · emotional transaction tagging · comparative ethics ontology (Buddhist · Christian · Jewish · Islamic · Stoic) · Happiness ROI · local LLM via Ollama · Streamlit · Indian bank statement analysis |
+| [learnopt](https://github.com/joyboseroy/learnopt) | LLM-tagged latent skill extraction from exam papers · NEET/JEE Advanced · Bayesian Knowledge Tracing · knowledge graph · CP-SAT study optimizer · KL-divergence regime detection · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/neet-skill-tags-2016-2024) |
 
 ---
 
