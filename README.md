@@ -55,6 +55,7 @@ unusual perspective meet.
 | [happy-money-coach](https://github.com/joyboseroy/happy-money-coach) | Ken Honda Happy Money philosophy · Arigato Score · emotional transaction tagging · comparative ethics ontology (Buddhist · Christian · Jewish · Islamic · Stoic) · Happiness ROI · local LLM via Ollama · Streamlit · Indian bank statement analysis |
 | [honeywell-rag](https://github.com/joyboseroy/honeywell-rag) | Metadata-first RAG with three-lane retrieval over PDFs, Excel, and live IoT sensor data · Groq/Ollama fallback |
 | [learnopt](https://github.com/joyboseroy/learnopt) | LLM-tagged latent skill extraction from exam papers · NEET/JEE Advanced · Bayesian Knowledge Tracing · knowledge graph · CP-SAT study optimizer · KL-divergence regime detection · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/neet-skill-tags-2016-2024) |
+| [india-electoral-data-commons](https://github.com/joyboseroy/india-electoral-data-commons) | Booth-level electoral analysis from public ECI Form 20 data · swing calculator · turnout anomaly detection · NOTA analysis · vote-to-seat distortion · Gallagher Index · Python · open civic data |
 
 ---
 
