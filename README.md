@@ -56,7 +56,8 @@ unusual perspective meet.
 | [honeywell-rag](https://github.com/joyboseroy/honeywell-rag) | Metadata-first RAG with three-lane retrieval over PDFs, Excel, and live IoT sensor data · Groq/Ollama fallback |
 | [learnopt](https://github.com/joyboseroy/learnopt) | LLM-tagged latent skill extraction from exam papers · NEET/JEE Advanced · Bayesian Knowledge Tracing · knowledge graph · CP-SAT study optimizer · KL-divergence regime detection · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/neet-skill-tags-2016-2024) |
 | [india-electoral-data-commons](https://github.com/joyboseroy/india-electoral-data-commons) | Booth-level electoral analysis from public ECI Form 20 data · swing calculator · turnout anomaly detection · NOTA analysis · vote-to-seat distortion · Gallagher Index · Python · open civic data |
-| [darshana-graph](https://github.com/joyboseroy/darshana-graph) | Text-grounded knowledge graph of Indian philosophy · 18 commentators across Advaita/Vishishtadvaita/Dvaita/Achintya Bhedabheda · 125K corpus records · 28K typed graph edges · closed-vocabulary LLM tagging · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/darshana-graph) |
+| [darshana-graph](https://github.com/joyboseroy/darshana-graph) | Text-grounded knowledge graph of Indian philosophy · 18 commentators across Advaita/Vishishtadvaita/Dvaita/Achintya Bhedabheda · 125K corpus records · 28K typed graph edges · closed-vocabulary LLM tagging · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/darshana-graph)|
+| [vada-simulator](https://github.com/joyboseroy/vada-simulator) | Citation-grounded multi-agent philosophical debate engine over darshana-graph · 2-school and N-school (3+) vada · LangGraph · Groq/Llama 3.3 · FalkorDB · fabrication-proof citation validation · cross-school/cross-concept debate framing |
 
 ---
 
