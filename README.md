@@ -65,10 +65,19 @@ unusual perspective meet.
 ## 📄 Papers & Datasets
 
 ### arXiv
-- [arXiv:2605.14665](https://arxiv.org/abs/2605.14665) — falkor-irac · Graph-constrained legal reasoning for Indian judiciary
-- [arXiv:2605.13311](https://arxiv.org/abs/2605.13311) — ideaforge · KG-grounded multi-methodology innovation
+- [arXiv:2606.18222](https://arxiv.org/abs/2606.18222) — darshana-graph · Parallel commentary corpus for comparative Indian philosophy
+- [arXiv:2606.15349](https://arxiv.org/abs/2606.15349) — learnopt · Latent cognitive structure of standardized exams via knowledge graphs
+- [arXiv:2606.01632](https://arxiv.org/abs/2606.01632) — Graph-conditioned Shapley attribution in patent valuation
+- [arXiv:2605.29367](https://arxiv.org/abs/2605.29367) — attention-asymmetry · Capital vs labour amplification in AI layoff discourse on X
+- [arXiv:2605.28223](https://arxiv.org/abs/2605.28223) — sati-loop · Reward misspecification in closed-loop EEG and biofeedback systems
+- [arXiv:2605.22206](https://arxiv.org/abs/2605.22206) — temporal-coding-tbt · Spiking reinterpretation of Thousand Brains Architecture
+- [arXiv:2605.19346](https://arxiv.org/abs/2605.19346) — imljd · Computational dataset for Indian matrimonial litigation
+- [arXiv:2605.17364](https://arxiv.org/abs/2605.17364) — newslens · Multi-agent framework for adversarial news bias navigation
+- [arXiv:2605.16843](https://arxiv.org/abs/2605.16843) — rti-bench · Structured dataset for Indian RTI decision analysis
+- [arXiv:2605.14665](https://arxiv.org/abs/2605.14665) — falkor-irac · Graph-constrained generation for verified Indian legal reasoning
+- [arXiv:2605.13311](https://arxiv.org/abs/2605.13311) — ideaforge · KG-grounded multi-agent innovation and patent claim generation
 - [arXiv:2605.00662](https://arxiv.org/abs/2605.00662) — stsmpaper · Spiking sequence machines and transformers
-- [arXiv:2504.18599](https://arxiv.org/abs/2504.18599) — HTM + SPRT drift detection · IJMEMS 2025
+- [arXiv:2504.18599](https://arxiv.org/abs/2504.18599) — htm-drift-detection · HTM + SPRT hybrid drift detection · IJMEMS 2025
 
 ### Datasets
 - [🤗 joyboseroy/inIRAC](https://huggingface.co/datasets/joyboseroy/inIRAC) — Structured Indian legal reasoning in IRAC format
@@ -83,6 +92,7 @@ unusual perspective meet.
 ---
 
 ## ✍️ Writing & Research
+- [If You Have Ever Wanted to Ask Shankara, Ramanuja, and Madhva the Same Question and Actually Compare Their Answers](https://medium.com/@joyboseroy/if-you-have-ever-wanted-to-ask-shankara-ramanuja-and-madhva-the-same-question-and-actually-0a46a89b361c) — darshana-graph companion · vada-simulator
 - [The AI Career Is Not a Ladder, It Is a Loop](https://medium.com/@joyboseroy/the-ai-career-is-not-a-ladder-it-is-a-loop-8eca4b3ce5e2) — Medium
 - [Getting AI Right](https://medium.com/@joyboseroy/getting-ai-right-e070700ff26f) — Medium  
 - [Problems with the Generative AI Stack](https://medium.com/@joyboseroy/problems-with-the-generative-ai-stack-b27470eef640) — Medium
