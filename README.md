@@ -92,7 +92,9 @@ unusual perspective meet.
 ---
 
 ## ✍️ Writing & Research
-- [If You Have Ever Wanted to Ask Shankara, Ramanuja, and Madhva the Same Question and Actually Compare Their Answers](https://medium.com/@joyboseroy/if-you-have-ever-wanted-to-ask-shankara-ramanuja-and-madhva-the-same-question-and-actually-0a46a89b361c) — darshana-graph companion · vada-simulator
+- [The Hardware Lottery: Why Transformers Won, What Could Replace Them, and How the AI Bubble Could Burst](https://www.linkedin.com/pulse/hardware-lottery-why-transformers-won-what-could-replace-joy-bose-jilvc/) — LinkedIn · stsmpaper context · neuromorphic computing
+- - [If You Have Ever Wanted to Ask Shankara, Ramanuja, and Madhva the Same Question and Actually Compare Their Answers](https://medium.com/@joyboseroy/if-you-have-ever-wanted-to-ask-shankara-ramanuja-and-madhva-the-same-question-and-actually-0a46a89b361c) — darshana-graph companion · vada-simulator
+- [Why Vector RAG Fails in Law and Why Graph Constrained Generation Can Fix It]([https://medium.com/@joyboseroy](https://medium.com/@joyboseroy/why-vector-rag-fails-in-law-and-why-graph-constrained-generation-can-fix-it-a47ebcc325db)) — falkor-irac companion
 - [The AI Career Is Not a Ladder, It Is a Loop](https://medium.com/@joyboseroy/the-ai-career-is-not-a-ladder-it-is-a-loop-8eca4b3ce5e2) — Medium
 - [Getting AI Right](https://medium.com/@joyboseroy/getting-ai-right-e070700ff26f) — Medium  
 - [Problems with the Generative AI Stack](https://medium.com/@joyboseroy/problems-with-the-generative-ai-stack-b27470eef640) — Medium
