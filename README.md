@@ -59,6 +59,7 @@ unusual perspective meet.
 | [darshana-graph](https://github.com/joyboseroy/darshana-graph) | Text-grounded knowledge graph of Indian philosophy · 18 commentators across Advaita/Vishishtadvaita/Dvaita/Achintya Bhedabheda · 125K corpus records · 28K typed graph edges · closed-vocabulary LLM tagging · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/darshana-graph)|
 | [vada-simulator](https://github.com/joyboseroy/vada-simulator) | Citation-grounded multi-agent philosophical debate engine over darshana-graph · 2-school and N-school (3+) vada · LangGraph · Groq/Llama 3.3 · FalkorDB · fabrication-proof citation validation · cross-school/cross-concept debate framing |
 | [digital-buddhism](https://github.com/joyboseroy/digital-buddhism) | Teacher reference network analysis across 12 Buddhist subreddits · betweenness centrality · tradition dominance · AI training bias · NetworkX · PullPush API |
+| [bengal-dharma-corpus](https://github.com/joyboseroy/bengal-dharma-corpus) | Computational vocabulary analysis across Buddhist Vajrayana, Shakta Tantra and Baul Bengali texts · TF-IDF char n-grams · cosine similarity · Tara to Kali lexical migration · Ramprasad Sen OCR · Charyapada · 48 texts across 6 tradition layers |
 
 ---
 
