@@ -62,6 +62,7 @@ unusual perspective meet.
 | [vada-simulator](https://github.com/joyboseroy/vada-simulator) | Citation-grounded multi-agent philosophical debate engine over darshana-graph · 2-school and N-school (3+) vada · LangGraph · Groq/Llama 3.3 · FalkorDB · fabrication-proof citation validation · cross-school/cross-concept debate framing |
 | [digital-buddhism](https://github.com/joyboseroy/digital-buddhism) | Teacher reference network analysis across 12 Buddhist subreddits · betweenness centrality · tradition dominance · AI training bias · NetworkX · PullPush API |
 | [bengal-dharma-corpus](https://github.com/joyboseroy/bengal-dharma-corpus) | Computational vocabulary analysis across Buddhist Vajrayana, Shakta Tantra and Baul Bengali texts · TF-IDF char n-grams · cosine similarity · Tara to Kali lexical migration · Ramprasad Sen OCR · Charyapada · 48 texts across 6 tradition layers |
+| [sequence-machine-revisited](https://github.com/joyboseroy/sequence-machine-revisited) | PhD sequence machine (Manchester 2005) reimplemented · rank-order N-of-M SDM · wheel-model spiking sequence machine · benchmarked vs LSTM/Transformer and RAG · includes Ajwani et al. 2021 Nengo SDM reproduction |
 
 ---
 
