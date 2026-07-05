@@ -64,6 +64,7 @@ unusual perspective meet.
 | [bengal-dharma-corpus](https://github.com/joyboseroy/bengal-dharma-corpus) | Computational vocabulary analysis across Buddhist Vajrayana, Shakta Tantra and Baul Bengali texts · TF-IDF char n-grams · cosine similarity · Tara to Kali lexical migration · Ramprasad Sen OCR · Charyapada · 48 texts across 6 tradition layers |
 | [sequence-machine-revisited](https://github.com/joyboseroy/sequence-machine-revisited) | PhD sequence machine (Manchester 2005) reimplemented · rank-order N-of-M SDM · wheel-model spiking sequence machine · benchmarked vs LSTM/Transformer and RAG · includes Ajwani et al. 2021 Nengo SDM reproduction |
 | [3gpp-citation-graph](https://github.com/joyboseroy/3gpp-citation-graph) | Clause-level cross-reference graph over 3GPP specs (Rel-11/12/13/14/16) · 130K nodes · 210K typed reference edges · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/3gpp-citation-graph) |
+| [groundtruth-mi](https://github.com/joyboseroy/groundtruth-mi) | Ground-truth benchmark protocol for mechanistic interpretability, verified against a Hopfield network and rank-order SDM instance | Python |
 
 ---
 
