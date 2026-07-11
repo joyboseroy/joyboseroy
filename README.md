@@ -67,6 +67,7 @@ unusual perspective meet.
 | [prajna](https://github.com/joyboseroy/prajna) | AI-native programming language prototype · belief types + grounding as typed hallucination guard · contract-driven compiler lowering (rules → distilled head → LLM) · deterministic replay · rank-order N-of-M SDM as LLM semantic cache · hot-path distillation compiles the LLM out of the program |
 | [3gpp-citation-graph](https://github.com/joyboseroy/3gpp-citation-graph) | Clause-level cross-reference graph over 3GPP specs (Rel-11/12/13/14/16) · 130K nodes · 210K typed reference edges · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/3gpp-citation-graph) |
 | [groundtruth-mi](https://github.com/joyboseroy/groundtruth-mi) | Ground-truth benchmark protocol for mechanistic interpretability, verified against a Hopfield network and rank-order SDM instance | Python |
+| [karaka-lang](https://github.com/joyboseroy/karaka-lang) | Paninian Sanskrit karaka-based calling convention for logic programming · order-independent semantic-role argument binding · subsumption-derived Sutra rewrite engine · nested-frame arity extension · Prolog + Cypher/FalkorDB codegen · position paper |
 
 ---
 
