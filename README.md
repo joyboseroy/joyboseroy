@@ -68,12 +68,15 @@ unusual perspective meet.
 | [3gpp-citation-graph](https://github.com/joyboseroy/3gpp-citation-graph) | Clause-level cross-reference graph over 3GPP specs (Rel-11/12/13/14/16) · 130K nodes · 210K typed reference edges · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/3gpp-citation-graph) |
 | [groundtruth-mi](https://github.com/joyboseroy/groundtruth-mi) | Ground-truth benchmark protocol for mechanistic interpretability, verified against a Hopfield network and rank-order SDM instance | Python |
 | [karaka-lang](https://github.com/joyboseroy/karaka-lang) | Paninian Sanskrit karaka-based calling convention for logic programming · order-independent semantic-role argument binding · subsumption-derived Sutra rewrite engine · nested-frame arity extension · Prolog + Cypher/FalkorDB codegen · position paper |
+| [telekg-agent](https://github.com/joyboseroy/telekg-agent) | Five-agent LangGraph pipeline for telecom knowledge graph querying · 17-query KPI benchmark |
 
 ---
 
 ## 📄 Papers & Datasets
 
 ### arXiv
+- [arXiv:2607.02967](https://arxiv.org/abs/2607.02967) — sdm-rank-order · Rank-order Sparse Distributed Memory
+- [arXiv:2606.29070](https://arxiv.org/abs/2606.29070) — darshana-temporal-analysis · Attribution bias and temporal sourcing in philosophical knowledge graphs
 - [arXiv:2606.18222](https://arxiv.org/abs/2606.18222) — darshana-graph · Parallel commentary corpus for comparative Indian philosophy
 - [arXiv:2606.15349](https://arxiv.org/abs/2606.15349) — learnopt · Latent cognitive structure of standardized exams via knowledge graphs
 - [arXiv:2606.01632](https://arxiv.org/abs/2606.01632) — Graph-conditioned Shapley attribution in patent valuation
