@@ -69,6 +69,7 @@ unusual perspective meet.
 | [groundtruth-mi](https://github.com/joyboseroy/groundtruth-mi) | Ground-truth benchmark protocol for mechanistic interpretability, verified against a Hopfield network and rank-order SDM instance | Python |
 | [karaka-lang](https://github.com/joyboseroy/karaka-lang) | Paninian Sanskrit karaka-based calling convention for logic programming · order-independent semantic-role argument binding · subsumption-derived Sutra rewrite engine · nested-frame arity extension · Prolog + Cypher/FalkorDB codegen · position paper |
 | [telekg-agent](https://github.com/joyboseroy/telekg-agent) | Five-agent LangGraph pipeline for telecom knowledge graph querying · 17-query KPI benchmark |
+| [curve-hough](https://github.com/joyboseroy/curve-hough) | Deep Hough Transform generalized to parametric curves via factorized voting |
 
 ---
 
