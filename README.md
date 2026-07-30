@@ -72,6 +72,7 @@ unusual perspective meet.
 | [curve-hough](https://github.com/joyboseroy/curve-hough) | Deep Hough Transform generalized to parametric curves via factorized voting |
 | [MarxGraph](https://github.com/joyboseroy/MarxGraph) | Temporal knowledge graph of Marxist concept evolution from Marx/Engels through Lenin, Luxemburg, Trotsky, Stalin, Mao · 50 works · 71.5K claims · 446 concept-transformation edges · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/MarxGraph) |
 | [psyagentbench](https://github.com/joyboseroy/psyagentbench) | LLM-agent replication of classic psychology paradigms · Asch conformity, anchoring, framing effect · named/blind × canonical/counterfactual contamination design · personality-gated bias (elimination/dampening/reversal) · Groq · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/PsyAgentBench) |
+| [oasis_dementia_classification](https://github.com/joyboseroy/oasis_dementia_classification) | Small-sample replication of a psychiatry PhD thesis's non-imaging Alzheimer's conversion approach on OASIS-2 · MMSE ablation isolating cognitive-test vs structural/demographic signal |
 
 ---
 
