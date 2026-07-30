@@ -73,6 +73,7 @@ unusual perspective meet.
 | [MarxGraph](https://github.com/joyboseroy/MarxGraph) | Temporal knowledge graph of Marxist concept evolution from Marx/Engels through Lenin, Luxemburg, Trotsky, Stalin, Mao · 50 works · 71.5K claims · 446 concept-transformation edges · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/MarxGraph) |
 | [psyagentbench](https://github.com/joyboseroy/psyagentbench) | LLM-agent replication of classic psychology paradigms · Asch conformity, anchoring, framing effect · named/blind × canonical/counterfactual contamination design · personality-gated bias (elimination/dampening/reversal) · Groq · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/PsyAgentBench) |
 | [oasis_dementia_classification](https://github.com/joyboseroy/oasis_dementia_classification) | Small-sample replication of a psychiatry PhD thesis's non-imaging Alzheimer's conversion approach on OASIS-2 · MMSE ablation isolating cognitive-test vs structural/demographic signal |
+| [sleep_staging_pipeline](https://github.com/joyboseroy/sleep_staging_pipeline) | Sleep stage classification on PhysioNet Sleep-EDF replicating a psychiatry PhD thesis's clinical-validation approach · EEG + EOG band-power and Hjorth features · Cohen's kappa benchmarked against published human inter-rater agreement · Colab GPU notebook with 1D-CNN comparison |
 
 ---
 
