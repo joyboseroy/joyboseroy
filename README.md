@@ -75,6 +75,7 @@ unusual perspective meet.
 | [oasis_dementia_classification](https://github.com/joyboseroy/oasis_dementia_classification) | Small-sample replication of a psychiatry PhD thesis's non-imaging Alzheimer's conversion approach on OASIS-2 · MMSE ablation isolating cognitive-test vs structural/demographic signal |
 | [sleep_staging_pipeline](https://github.com/joyboseroy/sleep_staging_pipeline) | Sleep stage classification on PhysioNet Sleep-EDF replicating a psychiatry PhD thesis's clinical-validation approach · EEG + EOG band-power and Hjorth features · Cohen's kappa benchmarked against published human inter-rater agreement · Colab GPU notebook with 1D-CNN comparison |
 | [PsychMLGraph](https://github.com/joyboseroy/PsychMLGraph) | Knowledge graph of psychiatry ML literature, 176 papers extracted via Semantic Scholar + Groq LLM extraction · disorder/model/feature-type/dataset nodes · literature-level test of a psychiatry PhD thesis's "clinical data over imaging" argument, showing imaging's share of papers dropping from ~30% (2019) to ~10% (2024-2026) · [🤗 HuggingFace](https://huggingface.co/datasets/joyboseroy/PsychMLGraph) |
+| [conceptgraph-schmidhuber](https://github.com/joyboseroy/conceptgraph-schmidhuber) | Citation-graph verification of Schmidhuber's priority-dispute claims · LLM-tagged concept graph (92 typed edges) + independent reference-list verification across 9 checkable disputes · [Medium writeup](https://joyboseroy.medium.com/testing-schmidhubers-priority-disputes-what-a-citation-graph-pipeline-actually-finds-afc1e66eb069) |
 
 ---
 
